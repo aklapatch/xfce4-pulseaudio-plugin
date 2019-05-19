@@ -1,0 +1,4 @@
+Configure miss: dummy
+Configure miss: optional package keybinder-3.0 >= 0.2.2
+Configure miss: optional package libnotify >= 0.7.0
+Configure miss: optional package libwnck-3.0 >= 3.20
